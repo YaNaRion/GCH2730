@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello world")
+	fmt.Println("TD3")
 	exercice.Exercice1()
-	exercice.Exercice2()
 }
